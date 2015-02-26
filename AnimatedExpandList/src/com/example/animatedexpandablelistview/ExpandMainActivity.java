@@ -488,6 +488,8 @@ public SwipeActionAdapter setSwipeActionListener(SwipeActionListener mSwipeActio
               int position = positionList[i];
               String dir = "";
 
+              
+              
               switch (direction) {
                   case SwipeDirections.DIRECTION_FAR_LEFT:
                       dir = "Far left";
